@@ -1,16 +1,19 @@
 # Explorer - Stage 03
 
-> Criando formulários 01
+> Creating Forms
 
-Desafio de criação de formulários em HTML e CSS do Stage 03 do Explorer.
+![preview](./.github/preview.png)
 
-[Clique aqui para visualizar a página no ar](https://jessicaranft.github.io/explorer-desafio-form01/)
+- This was a challenge project to create forms in HTML & CSS.
+- The form is for a menthorship registration, where the user may schedule and choose their preferred menthor.
+- The layout was based on a Figma project provided by Rocketseat.
 
-## Tecnologias
+- [Click to view it live!](https://jessicaranft.github.io/explorer-desafio-form01/)
 
-- HTML5
-- CSS3
+## Features
+
+`HTML` `CSS`
 
 ## Software
 
-- Visual Studio Code
+- VSCode
